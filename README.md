@@ -2,7 +2,7 @@
 An obstacle course game made using C# and Unity
 
 ## Gameplay
-Move the ball to the end of the obstacle course<br/><br/>
+Move the ball to the end of the obstacle course<br/>
 
 Stage 1 - Avoid the pink cylinders<br/>
 Stage 2- Escape the maze<br/>
