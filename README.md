@@ -5,7 +5,7 @@ An obstacle course game made using C# and Unity
 Move the ball to the end of the obstacle course<br/>
 
 Stage 1 - Avoid the pink cylinders<br/>
-Stage 2- Escape the maze<br/>
+Stage 2 - Escape the maze<br/>
 Stage 3 - Move through the green cuboids<br/>
 Stage 4 - Avoid the pink spheres<br/>
 Stage 5 - Follow the path without falling off
